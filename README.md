@@ -1,6 +1,8 @@
 # printThis
 Printing plug-in for jQuery
 
+ALA CON!
+
 ## Features
 * Print specific & multiple DOM elements
 * Preserve page CSS/styling
